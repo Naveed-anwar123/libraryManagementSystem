@@ -1,0 +1,112 @@
+Nov 28, 2015 1:31:00 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\Softwares\jdk1.5.0_04\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI\wbin;E:\Softwares\jre1.7.0_79-windows\jre1.7.0_79-windows\java-windows\bin;E:\Softwares\jdk1.5.0_04\bin;.;;.
+Nov 28, 2015 1:31:01 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Nov 28, 2015 1:31:01 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1633 ms
+Nov 28, 2015 1:31:01 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 28, 2015 1:31:01 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.44
+Nov 28, 2015 1:31:01 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor host-manager.xml
+Nov 28, 2015 1:31:01 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor manager.xml
+Nov 28, 2015 1:31:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory docs
+Nov 28, 2015 1:31:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory examples
+Nov 28, 2015 1:31:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory FirstWebsite
+Nov 28, 2015 1:31:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory ROOT
+Nov 28, 2015 1:31:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Website
+Nov 28, 2015 1:31:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Website2
+Nov 28, 2015 1:31:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Website3
+Nov 28, 2015 1:31:02 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Website4
+Nov 28, 2015 1:31:02 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Nov 28, 2015 1:31:02 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Nov 28, 2015 1:31:02 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Nov 28, 2015 1:31:02 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1683 ms
+Nov 28, 2015 1:37:43 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Website]
+Nov 28, 2015 1:37:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex1
+Nov 28, 2015 1:38:04 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Website2]
+Nov 28, 2015 1:38:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex2
+Nov 28, 2015 1:38:14 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Website3]
+Nov 28, 2015 1:38:14 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex3
+Nov 28, 2015 1:38:25 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Website4]
+Nov 28, 2015 1:38:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex4
+Nov 28, 2015 1:55:36 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Nov 28, 2015 1:55:37 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 28, 2015 1:55:37 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Nov 28, 2015 3:10:42 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\Softwares\jdk1.5.0_04\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI\wbin;E:\Softwares\jre1.7.0_79-windows\jre1.7.0_79-windows\java-windows\bin;E:\Softwares\jdk1.5.0_04\bin;.;;.
+Nov 28, 2015 3:10:42 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Nov 28, 2015 3:10:42 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 445 ms
+Nov 28, 2015 3:10:42 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 28, 2015 3:10:42 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.44
+Nov 28, 2015 3:10:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor host-manager.xml
+Nov 28, 2015 3:10:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor manager.xml
+Nov 28, 2015 3:10:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory docs
+Nov 28, 2015 3:10:42 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex1
+Nov 28, 2015 3:10:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex2
+Nov 28, 2015 3:10:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex3
+Nov 28, 2015 3:10:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex4
+Nov 28, 2015 3:10:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex5
+Nov 28, 2015 3:10:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory examples
+Nov 28, 2015 3:10:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory FirstWebsite
+Nov 28, 2015 3:10:43 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory ROOT
+Nov 28, 2015 3:10:43 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Nov 28, 2015 3:10:43 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Nov 28, 2015 3:10:43 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/16  config=null
+Nov 28, 2015 3:10:43 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 822 ms
+Nov 28, 2015 3:11:43 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Ex5]
+Nov 28, 2015 3:18:14 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Ex5]
+Nov 28, 2015 3:18:24 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/Ex5]
+Nov 28, 2015 3:48:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex5 - Copy
+Nov 28, 2015 3:48:46 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Undeploying context [/Ex5 - Copy]
+Nov 28, 2015 3:48:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory Ex6
